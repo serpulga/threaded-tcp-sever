@@ -3,7 +3,7 @@
 import sys
 import signal
 
-from PyQt4.QtCore import QCoreApplication
+from PySide.QtCore import QCoreApplication
 
 from threadedserver import Server
 
